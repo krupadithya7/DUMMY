@@ -1,0 +1,4 @@
+netstat -na
+netstat -npla
+netstat -npca
+netstat -na | grep <port>
